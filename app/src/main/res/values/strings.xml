@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="des1">Salmon Sambal Matah</string>
+    <string name="rp1">Rp 80.000</string>
+    <string name="des2">Ayam Asam Manis</string>
+    <string name="rp2">Rp 55.000</string>
+    <string name="des3">Kari Ayam + Nasi</string>
+    <string name="rp3">Rp 65.000</string>
+    <string name="des4">Gulai Kakap Segar</string>
+    <string name="rp4">Rp 78.000</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
